@@ -1,0 +1,40 @@
+.yy{
+    margin: 10px;
+    
+    
+}
+.container1{
+    background-color:grey;
+    width: 500px;
+    height: 375px;
+    
+    
+}
+
+.container{
+    background-color: grey;
+    width: 500px;
+    height: 375px;
+    position: relative;
+    left: 800px;
+    bottom: 445px;
+}
+
+#rr{
+    position: relative;
+    bottom:445px ;
+    left: 800px;
+}
+#uu
+{
+    position: relative;
+    bottom: 460px;
+    left: 41%;
+    width: 200px;
+    height: 40px;
+}
+
+body{
+    margin: 40px;
+
+}
