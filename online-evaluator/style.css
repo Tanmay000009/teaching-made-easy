@@ -1,0 +1,51 @@
+
+#oo{
+    margin-left: 100px;
+    
+   
+}
+body{
+    background-image: url(hh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.yy{
+    margin: 10px;
+    
+    
+}
+.container1{
+    background-color:grey;
+    width: 320px;
+    height: 375px;
+    
+    
+}
+
+.container2{
+    background-color: grey;
+    
+    width: 320px;
+    height: 375px;
+    
+    position: relative;
+    left: 800px;
+    bottom: 420px;
+}
+
+#rr{
+    position: relative;
+    bottom:419px ;
+    left: 800px;
+}
+#uu
+{
+    position: relative;
+    bottom: 460px;
+    left: 37%;
+    width: 200px;
+    height: 40px;
+}
+
