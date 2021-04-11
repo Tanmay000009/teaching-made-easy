@@ -32,13 +32,13 @@ This will help parents to know better regarding what factor resultin sudden chan
 A child's personality and nature is decided insuch early stages of life, and also our model canshow child being disturbed by whats going onaround like someone troubling them or bullyingthem. So we aim to create a better life duringearly childhood and also better mental health ofsmall children, as directly or indirectly many ofthem go through a lot, especially during thepandemic.
 
 # Hot to Use :
- https://colab.research.google.com/drive/199oX7sRTujoDtT2a4h_xbzBzukKCZWKu?usp=sharing
- Open the above colab notebook.
- Save a copy to your drive
- Run all the cells.
- You'll find a link ending with ngrock.io .
- Open it, this is our complete deployed website.
- Currently the redirctions are not interconnected, but can be accessed using:
+* https://colab.research.google.com/drive/199oX7sRTujoDtT2a4h_xbzBzukKCZWKu?usp=sharing
+* Open the above colab notebook.
+* Save a copy to your drive
+* Run all the cells.
+* You'll find a link ending with ngrock.io .
+* Open it, this is our complete deployed website.
+* Currently the redirctions are not interconnected, but can be accessed using:
  /predict (for para searcher) , /checker (for answer checker), /redirect.  
  
 
