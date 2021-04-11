@@ -29,7 +29,9 @@ In order to solve the above problems, we have come up with our project: Teaching
 Using our computer vision model,we will create a database of child's behaviour.
 We will perform anomaly detection using database ondaily basis and inform parents regarding any suddenchanges in child's behvaiour.
 This will help parents to know better regarding what factor resultin sudden changes in their child's behvaiour like sudden grief, orscolding them, arguments between parents etc.
-A child's personality and nature is decided insuch early stages of life, and also our model canshow child being disturbed by whats going onaround like someone troubling them or bullyingthem. So we aim to create a better life duringearly childhood and also better mental health ofsmall children, as directly or indirectly many ofthem go through a lot, especially during thepandemic.
+A child's personality and nature is decided in such early stages of life, and also our model canshow child being disturbed by whats going onaround like someone troubling them or bullying them. So we aim to create a better life duringearly childhood and also better mental health ofsmall children, as directly or indirectly many of them go through a lot, especially during the pandemic.
+      Our program, shall be a great way to keep a check on a child's mental health. In today's world, when anxiety and depression is effecting people of all ages, one age group that is not discussed upon that much is children of primary and junior classes. Therefore, our program shall effect the entire education in a good way as it has the added benefits of being easy to access and usefuk to students and teachers. It is then when our aim to bring about a good change in the society shall be achieved. 
+
 
 # Hot to Use :
 * https://colab.research.google.com/drive/199oX7sRTujoDtT2a4h_xbzBzukKCZWKu?usp=sharing
