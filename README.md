@@ -40,9 +40,6 @@ A child's personality and nature is decided in such early stages of life, and al
 * Run all the cells.
 * You'll find a link ending with ngrock.io .
 * Open it, this is our complete deployed website.
-* Currently the redirctions are not interconnected, but can be accessed using:
- /predict (for para searcher) , /checker (for answer checker), /redirect.  
- 
 
 
 # repo link for openCV models 
