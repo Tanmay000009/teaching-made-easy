@@ -29,13 +29,19 @@ In order to solve the above problems, we have come up with our project: Teaching
 Using our computer vision model,we will create a database of child's behaviour.
 We will perform anomaly detection using database ondaily basis and inform parents regarding any suddenchanges in child's behvaiour.
 This will help parents to know better regarding what factor resultin sudden changes in their child's behvaiour like sudden grief, orscolding them, arguments between parents etc.
-A child's personality and nature is decided in such early stages of life, and also our model canshow child being disturbed by whats going onaround like someone troubling them or bullyingthem. So we aim to create a better life duringearly childhood and also better mental health ofsmall children, as directly or indirectly many of them go through a lot, especially during thepandemic.
-      This shall be a great way to keep a check on the mental health of the students and would not only make their lives better with a perk of it being easy through our program. The education system of the country and perhaps the entire world shall be effected through our software, the zeal of its easy and smooth functionality shall surely bring about a good change for all of us and then our aim to create something helpful to the society shall be achieved.
+A child's personality and nature is decided insuch early stages of life, and also our model canshow child being disturbed by whats going onaround like someone troubling them or bullyingthem. So we aim to create a better life duringearly childhood and also better mental health ofsmall children, as directly or indirectly many ofthem go through a lot, especially during thepandemic.
 
-# ans-checker
-  https://colab.research.google.com/drive/1xC3xYDzukYUmIWQxhJXYqv4VFrI2T0ri?usp=sharing
+# Hot to Use :
+ https://colab.research.google.com/drive/199oX7sRTujoDtT2a4h_xbzBzukKCZWKu?usp=sharing
+ Open the above colab notebook.
+ Save a copy to your drive
+ Run all the cells.
+ You'll find a link ending with ngrock.io .
+ Open it, this is our complete deployed website.
+ Currently the redirctions are not interconnected, but can be accessed using:
+ /predict (for para searcher) , /checker (for answer checker), /redirect.  
+ 
+
 
 # repo link for openCV models 
   https://github.com/leanwithme/DL_model_studentExpRecogniser
-  
-  this repo was created before due time, but we forgot to add its link here, so here it is. Thank You
