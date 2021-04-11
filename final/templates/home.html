@@ -33,7 +33,7 @@
 <div class="menu-wrapper d-flex align-items-center justify-content-between">
 <div class="left-content d-flex align-items-center">
 <div class="logo mr-30">
-<a href="index.html"><img src="{{url_for('static',filename='new.png')}}" style="width: 260px;" alt=""></a>
+<a href="/checker"><img src="{{url_for('static',filename='new.png')}}" style="width: 260px;" alt=""></a>
 </div>
 
 <div class="main-menu d-none d-lg-block">
@@ -59,7 +59,10 @@
 <div class="buttons">
 <ul>
 <li class="button-header"></li>
-<a href="#" class="header-btn2 border-btn2">Redirect to Tool</a>
+<a href="/checker" class="header-btn2 border-btn2">Redirect to checker</a>
+</li>
+<li class="button-header"></li>
+<a href="/redirect" class="header-btn2 border-btn2">Redirect to para-finder/answerer</a>
 </li>
 </ul>
 </div>
@@ -180,7 +183,14 @@
 <p>In order to solve the above problems, we have come up with our project: Teaching Made Easy - Your assistant in Online Education. We have created an Assignment Checker using NLP. The checker will take the questions and their model answers/ ideal answers as input from the teacher. The students will submit their answers through a form, from which data will be fetched and fed into our Deep Learning Model of NLP following which the grade will be displayed on our web-page interface for the teacher as well as student. The web page interface allows options to create assignments, as well as show students’ performance and class performance. For keeping an eye on every student during the online sessions hosted on any platform, we have created a python program using OpenCV library, which will take the video feed of live class as input and give tags to everything it identifies as human. The tags will be - attentive, not attentive, confused, and speaking. Keeping in mind the struggles faced by students in primary schools, like in muting or unmuting themselves during online classes. Also, many students get unnoticed during classes as they don’t know about the feature of raising their hands and many don’t know how to raise their hands virtually. We have created another deep learning model, which will also take the live feed of online class as input. It will try to identify hand gestures of students, and will classify them as “raising hand”, “mute” and “unmute”.
 
 </p>
-<a href="" class="btn mt-20">Redirect to our tool!</a>
+<ul>
+  <li class="button-header"></li>
+  <a href="/checker" class="btn mt-20">Redirect to checker</a>
+  </li>
+  <li class="button-header"></li>
+  <a href="/redirect" class="btn mt-20">Redirect to para-finder/answerer</a>
+  </li>
+  </ul>
 
 </div>
 </div>
