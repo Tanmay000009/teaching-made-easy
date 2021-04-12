@@ -33,7 +33,7 @@ A child's personality and nature is decided in such early stages of life, and al
       Our program, shall be a great way to keep a check on a child's mental health. In today's world, when anxiety and depression is effecting people of all ages, one age group that is not discussed upon that much is children of primary and junior classes. Therefore, our program shall effect the entire education in a good way as it has the added benefits of being easy to access and usefuk to students and teachers. It is then when our aim to bring about a good change in the society shall be achieved. 
 
 
-# Hot to Use :
+# How to Use :
 * https://colab.research.google.com/drive/199oX7sRTujoDtT2a4h_xbzBzukKCZWKu?usp=sharing
 * Open the above colab notebook.
 * Save a copy to your drive
