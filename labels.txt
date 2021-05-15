@@ -1,0 +1,3 @@
+0 attentive
+1 doubtful
+2 unattentive
