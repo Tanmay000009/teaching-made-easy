@@ -1,7 +1,7 @@
 # teaching-made-easy
 
 # OBJECTIVE
-To solve the problems faced by teachers as well as students during online education/classes.
+To solve the problems faced by teachers as well as students during online classes/education.
 
 # INTRODUCTION
 Pandemic has affected almost every person irrespective of their occupation. Even though the medium of education has shifted from Offline to Online, and work from home is encouraged for everyone, yet during these tough times, teachers’ lives have become tougher. As many of our teachers have children, who too have online classes from home, it becomes really hard for our teachers to manage their time in evaluating assignments and tests. In addition, keeping an eye on every student is also a challenge during online classes. From students’ point of view, students of the primary school also struggle as many of them don’t have knowledge of operating computers, and parents have to sit with them throughout the class to assist them in doing so. Keeping in mind that many parents are working, online classes fail to be interactive, comfortable, and productive for many students.
